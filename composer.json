@@ -1,0 +1,14 @@
+{
+    "name": "aliakbar.boistov/mvc-libreary",
+    "autoload": {
+        "psr-4": {
+            "AliakbarBoistov\\MvcLibreary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aliakbar Boistov"
+        }
+    ],
+    "require": {}
+}
